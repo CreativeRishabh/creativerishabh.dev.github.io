@@ -46,7 +46,8 @@ header{
 }
 
 .about-title{
-    background-color: orange;   
+    background-color: orange;
+	font-family: 'Grenze Gotisch', cursive;
 }
 
 .about-text{
