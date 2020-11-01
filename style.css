@@ -43,11 +43,11 @@ header{
     text-align: center;
     font-size: 30px;
     margin-top: -40px;
+    font-family: 'Grenze Gotisch', cursive;
 }
 
 .about-title{
     background-color: orange;
-	font-family: 'Grenze Gotisch', cursive;
 }
 
 .about-text{
