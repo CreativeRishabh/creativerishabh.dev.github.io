@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    padding: 0;
+/*
+    align-items: center;
+    justify-content: center;
+*/
+}
+
+header{
+    background-image: linear-gradient(red,yellow);
+/*    background-image: radial-gradient(circle, red, yellow);*/
+}
+
+.title{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 3em;
+    padding-top: 30px;
+    margin-bottom: -70px;
+    padding-bottom: 30px;
+    
+}
+
+.intro{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: underline;
+    font-size: 20px;
+    padding-bottom: 50px;
+    
+}
+
+.logo{
+    height: 190px;
+    display: block;
+    margin: auto;
+/*    margin-top: 250px;*/
+}
+
+.about-me-container{
+    text-align: center;
+    font-size: 30px;
+    margin-top: -40px;
+}
+
+.about-title{
+    background-color: orange;   
+}
+
+.about-text{
+    margin: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    padding-top: -250px;
+    text-align: center;
+}
+
+.about-text a{
+    text-decoration: none;
+}
+
+.about-text a:hover{
+    color: red;
+}
+
+.about-me-container img{
+    height: 150px;
+    
+}
+
+.my-progress h1{
+    font-family: 'Grenze Gotisch', cursive;
+    text-align: center;
+    font-size: 55px;
+    background-color: orange;
+
+}
+
+.my-progress p{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Source Sans Pro', sans-serif;    
+    margin: 20px;
+}
+
+.my-progress img{
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+
+.website h1{
+    font-family: 'Grenze Gotisch', cursive;
+    background-color: orange;
+    text-align: center;
+    font-size: 55px;
+}
+
+.website p{
+    font-family: 'Source Sans Pro', sans-serif;    
+    margin: 20px;
+    font-size: 35px;
+}
+
+.website a{
+    text-decoration: none;
+}
+
+.social-media img{
+    height: 70px;
+    display: flex;
+    margin: auto;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.website a:hover{
+    color: red;
+}
+
+footer{
+   background-color: #f8c889;
+   color: rgb(0, 0, 0);
+}
+
+footer p{
+   margin-bottom: -20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
