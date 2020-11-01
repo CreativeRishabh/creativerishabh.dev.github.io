@@ -43,6 +43,9 @@ header{
     text-align: center;
     font-size: 30px;
     margin-top: -40px;
+}
+
+.about-me-container h1{
     font-family: 'Grenze Gotisch', cursive;
 }
 
