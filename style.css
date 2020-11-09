@@ -114,7 +114,7 @@ header{
 
 .social-media img{
     height: 70px;
-    display: flex;
+    display: block;
     margin: auto;
 }
 
