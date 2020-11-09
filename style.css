@@ -5,6 +5,14 @@ body {
     align-items: center;
     justify-content: center;
 */
+    
+}
+body a{
+    text-decoration: none;
+}
+
+body a:hover{
+    color: red;
 }
 
 header{
@@ -61,14 +69,6 @@ header{
     text-align: center;
 }
 
-.about-text a{
-    text-decoration: none;
-}
-
-.about-text a:hover{
-    color: red;
-}
-
 .about-me-container img{
     height: 150px;
     
@@ -108,22 +108,10 @@ header{
     font-size: 35px;
 }
 
-.website a{
-    text-decoration: none;
-}
-
 .social-media img{
     height: 70px;
     display: block;
     margin: auto;
-}
-
-a{
-    text-decoration: none;
-}
-
-.website a:hover{
-    color: red;
 }
 
 footer{
@@ -133,6 +121,26 @@ footer{
 
 footer p{
    margin-bottom: -20px;
+}
+
+.password-generator-project{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px; 
+}
+
+.password-generator-project h3{
+    color: blue;
+}
+
+.video-clips{
+    text-align: center;
+}
+
+.video-clips h1{
+    font-family: 'Grenze Gotisch', cursive;
+    background-color: orange;
+    text-align: center;
+    font-size: 55px;
 }
 
 
